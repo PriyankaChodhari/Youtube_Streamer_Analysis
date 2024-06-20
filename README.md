@@ -1,5 +1,5 @@
 # Youtube_Streamer_Analysis Internship
-Dataset : Top 1000 Youtubers statistics
+Dataset : Top 1000 Youtubers statistics ,
 This dataset contains valuable information about the top YouTube streamers,including their ranking, categories, subscribers,country, visits, likes, comments, and more.
 The task is to perform a comprehensive analysis of the dataset to extract insights about the top YouTube content creators.
 I has used python libraries such as Numpy, Pandas, Matplotlib, Seaborn and more.
